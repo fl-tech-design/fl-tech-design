@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fl-tech-design
 - 👀 I’m interested in technology, electricity, coding, arduino, raspberryPi, CAD drawing
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning python and C/C++(Arduino)
 - 💞️ I’m looking to collaborate on python projects. What ever you want.
 - 📫 How to reach me ...
 - Tel.: +41764660173
